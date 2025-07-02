@@ -3,7 +3,7 @@
 echo "******* Installing EndeavourOS Theming for XFCE4*******" && sleep 5
 
 echo "******* cloning dotfiles for EndeavourOS - XFCE4 Theming *******" && sleep 1
-    git clone https://github.com/endeavouros-team/endeavouros-xfce4-theming.git
+    git clone https://github.com/EndeavourOS-Community-Editions/endeavouros-xfce4-theming.git
     cd endeavouros-xfce4-theming
 echo "******* Getting theme and packages installed now: *******" && sleep 1
     wget -q --timeout=10 https://raw.githubusercontent.com/endeavouros-team/EndeavourOS-packages-lists/master/xfce4
