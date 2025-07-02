@@ -1,8 +1,7 @@
 # endeavouros-xfce4-theming
-[![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)](https://github.com/endeavouros-team)
 
 ![XFCE4 Screenshot](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/xfce4-screenshot-galileo.png "XFCE4 Screenshot")
-The EndeavourOS XFCE4 Theming.
+The classic EndeavourOS XFCE4 Theming.
 
 
 ## EndeavourOS Theme for XFCE4 Installation:
@@ -12,7 +11,7 @@ If you are really lazy, use the script:
 
 (this will overwrite existing setup for the current user)
 
-`wget https://raw.githubusercontent.com/endeavouros-team/endeavouros-xfce4-theming/master/xfce.sh`
+`wget https://raw.githubusercontent.com/EndeavourOS-Community-Editions/endeavouros-xfce4-theming/master/xfce.sh`
 
 `sh ./xfce.sh`
 
@@ -20,7 +19,7 @@ If you are really lazy, use the script:
 
 (this will overwrite existing setup for the current user)
 
-`git clone https://github.com/endeavouros-team/endeavouros-xfce4-theming`
+`git clone https://github.com/EndeavourOS-Community-Editions/endeavouros-xfce4-theming`
 
 `cd endeavouros-xfce4-theming/etc/skel/`
 
